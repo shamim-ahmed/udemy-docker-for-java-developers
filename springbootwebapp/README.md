@@ -4,4 +4,4 @@
 
 2. Once the build is successful, run the following command to build the docker image:
 
-    docker build -t shamimahmed07/springbootapp:latest ,
+  `docker build -t shamimahmed07/springbootapp:latest .`
